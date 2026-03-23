@@ -1,10 +1,21 @@
-# Linux-practice
-linux commands and notes from cybersecurity 
-## commands
-ls - lists files in a directory
-cat - shows contents of a file 
-ps - shows running processes
-kill - stops a process 
+# Cybersecurity Journey
 
-## Notes 
-still learning but getting better everyday 
+Hi, I'm learning cybersecurity step by step.
+
+This repository tracks my progress, notes, and practice labs.
+
+## What I'm Learning
+
+- Linux fundamentals  
+- Cybersecurity basics  
+- Hands-on labs (OverTheWire Bandit)
+
+## Sections
+
+- Linux → basic commands and practice  
+- Bandit → lab walkthroughs and notes  
+- Notes → general learning  
+
+## Goal
+
+To build real skills and document everything I learn.
